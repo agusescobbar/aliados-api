@@ -1,0 +1,93 @@
+[
+    {
+        "id": "0",
+        "nombre": "Ian",
+        "tipo": "Ser de luz",
+        "don": "Invencibilidad",
+        "imagen": "https://raw.githubusercontent.com/agusescobbar/aliados-img/refs/heads/main/public/Ian.webp"
+    },
+    {
+        "id": "1",
+        "nombre": "Venecia",
+        "tipo": "Ser de luz",
+        "don": "Amar incondicionalmente",
+        "imagen": "https://raw.githubusercontent.com/agusescobbar/aliados-img/refs/heads/main/public/Venecia.webp"
+    },
+    {
+        "id": "2",
+        "nombre": "Inti",
+        "tipo": "Ser de luz",
+        "don": " Cura el dolor del cuerpo y del alma.",
+        "imagen": "https://raw.githubusercontent.com/agusescobbar/aliados-img/refs/heads/main/public/Inti.webp"
+    },
+    {
+        "id": "3",
+        "nombre": "Gopal",
+        "tipo": "Ser de luz",
+        "don": "Mundo de los Espejos",
+        "imagen": "https://raw.githubusercontent.com/agusescobbar/aliados-img/refs/heads/main/public/gopal.webp"
+    },
+    {
+        "id": "4",
+        "nombre": "Debbie",
+        "tipo": "Ser de luz",
+        "don": "Hablar con los animales",
+        "imagen": "https://raw.githubusercontent.com/agusescobbar/aliados-img/refs/heads/main/public/devi.webp"
+    },
+    {
+        "id": "5",
+        "nombre": "Ambar",
+        "tipo": "Ser de luz",
+        "don": "Cambio de cuerpo",
+        "imagen": "https://raw.githubusercontent.com/agusescobbar/aliados-img/refs/heads/main/public/Ambar.webp"
+    },
+    {
+        "id": "6",
+        "nombre": "Luz",
+        "tipo": "Ser de luz",
+        "don": "Posesion",
+        "imagen": "https://raw.githubusercontent.com/agusescobbar/aliados-img/refs/heads/main/public/Luz.webp"
+    },
+    {
+        "id": "7",
+        "nombre": "Noah",
+        "tipo": "Humano",
+        "don": "Seduccion",
+        "imagen": "https://raw.githubusercontent.com/agusescobbar/aliados-img/refs/heads/main/public/noah.webp"
+    },
+    {
+        "id": "8",
+        "nombre": "Franco",
+        "tipo": "Humano",
+        "don": "Fotografia",
+        "imagen": "https://raw.githubusercontent.com/agusescobbar/aliados-img/refs/heads/main/public/franco.webp"
+    },
+    {
+        "id": "9",
+        "nombre": "Manuel",
+        "tipo": "Humano",
+        "don": "Informatica",
+        "imagen": "https://raw.githubusercontent.com/agusescobbar/aliados-img/refs/heads/main/public/manuel.webp"
+    },
+    {
+        "id": "10",
+        "nombre": "Valentin",
+        "tipo": "Humano",
+        "don": "Robar",
+        "imagen": "https://raw.githubusercontent.com/agusescobbar/aliados-img/refs/heads/main/public/valentin.webp"
+    },
+    {
+        "id": "11",
+        "nombre": "Maia",
+        "tipo": "Humano",
+        "don": "Programación",
+        "imagen": "https://raw.githubusercontent.com/agusescobbar/aliados-img/refs/heads/main/public/maia.webp"
+    },
+    {
+        "id": "12",
+        "nombre": "Azul",
+        "tipo": "Humano",
+        "don": "Canto",
+        "imagen": "https://raw.githubusercontent.com/agusescobbar/aliados-img/refs/heads/main/public/azul.webp"
+    }
+]
