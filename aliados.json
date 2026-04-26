@@ -89,5 +89,12 @@
         "tipo": "Humano",
         "don": "Canto",
         "imagen": "https://raw.githubusercontent.com/agusescobbar/aliados-img/refs/heads/main/public/azul.webp"
+    },
+    {
+    "id": "portada",
+    "nombre": "Aliados (2013)",
+    "imagen": "https://raw.githubusercontent.com/agusescobbar/aliados-img/refs/heads/main/public/aliados.jpg",
+    "don": "El comienzo de la misión",
+    "tipo": "Serie"
     }
 ]
